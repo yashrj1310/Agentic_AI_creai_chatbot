@@ -1,4 +1,4 @@
-# Agentic_AI_creai_chatbot
+# Agentic_AI_CrewAI_chatbot
 This repository contains an Agentic AI Chatbot that processes PDF documents and answers questions based on their content. It uses CrewAI, Ollama, and PDFSearchTool to extract relevant information and provide accurate responses.
 Features:
 ✅ Autonomous AI Agents for document analysis
@@ -13,7 +13,7 @@ Create a README.md file and paste the following content:
 md
 Copy
 Edit
-# 🤖 Agentic AI Chatbot for PDFs
+# 🤖 Agentic_AI_CrewAI_chatbot for PDFs
 
 This project is an **AI-powered chatbot** that allows users to **ask questions based on PDF content**. It uses **CrewAI**, **Ollama**, and **PDFSearchTool** to extract relevant information and generate responses.
 
